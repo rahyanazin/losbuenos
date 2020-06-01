@@ -2,7 +2,7 @@
 Space Apps COVID-19 Challenge Project
 
 ## Pre Set-Up
-* Set your NASA Earth Data credentials in scripts "download_data.py" and "process_data.py" by changing "username" abd "password" variables
+* Set your NASA Earth Data credentials in scripts "download_data.py" and "process_data.py" by changing "username" and "password" variables
 * Add Selenium Chrome Driver to your project folder (https://chromedriver.chromium.org/downloads)
 
 ## Project Usage
