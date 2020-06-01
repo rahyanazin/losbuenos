@@ -16,7 +16,7 @@ Space Apps COVID-19 Challenge Project
 2."hum_[country]"
 3."no2_[country]"
 
-* Run "create_final_data" to create a file like the ones in folder "results/nasa"
+* Run "create_final_data" to create a file like the ones in folder "results/giovanni"
 
 ### Analysis
 
