@@ -12,9 +12,12 @@ Space Apps COVID-19 Challenge Project
 * Run "download_data.py" for downloading Giovanni's data.
 
 * Put downloaded files in your project folder, changing files' names according to the following pattern:
-1."temp_[country]"
-2."hum_[country]"
-3."no2_[country]"
+
+    "temp_[country]"
+    
+    "hum_[country]"
+
+    "no2_[country]"
 
 * Run "create_final_data" to create a file like the ones in folder "results/giovanni"
 
@@ -24,4 +27,4 @@ Data used:
 * John Hopkins Coronavirus Resource Center Database (results/johnhopkins)
 * Country Average Temperature, Relative Humidity and NO2 Emision from NASA's Giovanni Tool (results/giovanni)
 
-Result stored in results/SpaceApps_Covid19 workbook.
+Results stored in results/SpaceApps_Covid19 workbook.
