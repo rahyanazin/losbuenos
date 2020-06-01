@@ -21,7 +21,7 @@ Space Apps COVID-19 Challenge Project
 
 * Run "create_final_data" to create a file like the ones in folder "results/giovanni"
 
-### Analysis
+## Analysis
 
 Data used:
 * John Hopkins Coronavirus Resource Center Database (results/johnhopkins)
